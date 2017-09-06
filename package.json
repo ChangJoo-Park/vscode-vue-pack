@@ -2,10 +2,11 @@
   "name": "vscode-vue-devpack",
   "displayName": "Vue Development Extension Pack",
   "description": "Extension collection for Vue Developer using Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "changjoo-park",
+  "icon": "icon.png",
   "galleryBanner": {
-    "color": "#4fc08d",
+    "color": "#fff",
     "theme": "dark"
   },
   "engines": {
