@@ -1,0 +1,54 @@
+{
+  "name": "vscode-vue-devpack",
+  "displayName": "Vue Development Extension Pack",
+  "description": "Extension collection for Vue Developer using Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "changjoo-park",
+  "galleryBanner": {
+    "color": "#4fc08d",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "keywords": [
+    "git",
+    "html",
+    "javascript",
+    "css",
+    "vue"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/ChangJoo-Park/vscode-vue-pack"
+  },
+  "homepage": "https://github.com/ChangJoo-Park/vscode-vue-pack",
+  "bugs": {
+    "url": "https://github.com/ChangJoo-Park/vscode-vue-pack/issues"
+  },
+  "extensionDependencies": [
+    "eamodio.gitlens",
+    "waderyan.gitblame",
+    "donjayamanne.githistory",
+    "ms-vscode.sublime-keybindings",
+    "formulahendry.auto-close-tag",
+    "alefragnani.bookmarks",
+    "CoenraadS.bracket-pair-colorizer",
+    "kisstkondoros.vscode-codemetrics",
+    "msjsdiag.debugger-for-chrome",
+    "EditorConfig.editorconfig",
+    "felipecaputo.git-project-manager",
+    "xabikos.javascriptsnippets",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "WallabyJs.quokka-vscode",
+    "humao.rest-client",
+    "octref.vetur",
+    "wayou.vscode-todo-highlight",
+    "robertohuertasm.vscode-icons",
+    "HookyQR.beautify"
+  ]
+}
