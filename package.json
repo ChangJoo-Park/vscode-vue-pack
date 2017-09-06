@@ -6,8 +6,8 @@
   "publisher": "changjoo-park",
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#000",
-    "theme": "light"
+     "color": "#fff",
+      "theme": "light"
   },
   "engines": {
     "vscode": "^1.10.0"
