@@ -24,7 +24,9 @@ This extensions pack has awesome VSCode Extensions :)
 - [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [Todo Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
+- [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Vue peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
 
 ## Recommend anything more?
 
