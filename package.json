@@ -50,6 +50,9 @@
     "octref.vetur",
     "wayou.vscode-todo-highlight",
     "robertohuertasm.vscode-icons",
-    "HookyQR.beautify"
+    "HookyQR.beautify",
+    "patrys.vscode-code-outline",
+    "wix.vscode-import-cost",
+    "dariofuzinato.vue-peek"
   ]
 }
